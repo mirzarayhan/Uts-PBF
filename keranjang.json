@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1617465479871,
+      "namaproduk": "Aqua AQW78DD",
+      "harga": 1900000,
+      "gambar": "",
+      "stock": 1
+    },
+    {
+      "id": 1617465498886,
+      "namaproduk": "Aqua FQW-1010QD",
+      "harga": 4200000,
+      "gambar": "",
+      "stock": 1
+    },
+    {
+      "id": 1617465515393,
+      "namaproduk": "Polytron PAW-7511",
+      "harga": 2000000,
+      "gambar": "",
+      "stock": 1
+    }
+  ]
+}

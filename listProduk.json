@@ -1,0 +1,67 @@
+{
+    "barang": [
+      {
+        "id": 1,
+        "namaproduk": "Aqua AQW78DD",
+        "harga": 1900000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-Aqua.jpg",
+        "stock": 1
+      },
+      {
+        "id": 2,
+        "namaproduk": "Polytron PAW-7511",
+        "harga": 2000000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-Polytron.jpg",
+        "stock": 1
+      },
+      {
+        "id": 3,
+        "namaproduk": "Sharp ESF950PGY",
+        "harga": 2100000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-Sharp.jpg",
+        "stock": 1
+      },
+      {
+        "id": 4,
+        "namaproduk": "Samsung WA70H4000SG",
+        "harga": 2430000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-Samsung.jpg",
+        "stock": 1
+      },
+      {
+        "id": 5,
+        "namaproduk": "LG T2107VSPM1",
+        "harga": 2900000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-LG.jpg",
+        "stock": 1
+      },
+      {
+        "id": 6,
+        "namaproduk": "Sharp ESM806P",
+        "harga": 2870000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-SHARP-1.jpg",
+        "stock": 1
+      },
+      {
+        "id": 7,
+        "namaproduk": "Aqua FQW-1010QD",
+        "harga": 4200000,
+        "gambar": "https://www.99.co/blog/indonesia/wp-content/uploads/2020/09/mesin-cuci-aqua.jpg",
+        "stock": 1
+      },
+      {
+        "id": 8,
+        "namaproduk": "Panasonic NAF105MB1",
+        "harga": 4300000,
+        "gambar": "https://blogpictures.99.co/Mesin-Cuci-1-Tabung-Panasonic.jpg",
+        "stock": 1
+      },
+      {
+        "id": 9,
+        "namaproduk": "LG TSA-13ND6",
+        "harga": 6500000,
+        "gambar": "https://www.99.co/blog/indonesia/wp-content/uploads/2020/09/mesin-cuci-1-tabung-lg-1.jpg",
+        "stock": 1
+      }
+    ]
+  }
